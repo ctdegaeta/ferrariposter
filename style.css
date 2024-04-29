@@ -1,7 +1,38 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body{
+
+	text-align: center;
+	background: lightgreen;
+	font-family: Arial;
 }
-canvas {
-  display: block;
+
+iframe{
+
+	width: 600px;
+	height: 600px;
+}
+
+p{
+
+	background: lightblue;
+	font-size: 14px;
+}
+
+p#second-para{
+
+	background: red;
+	font-size: 14px;
+	color: blue;
+}
+
+.para-font-color{
+
+	color: orange;
+	color: green;
+	margin-top: 35px;
+}
+
+button{
+
+	background: yellow;
+	border-radius: 15px;
 }
