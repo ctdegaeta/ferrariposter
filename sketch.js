@@ -1,7 +1,3 @@
-
-
-//*press mouse cursor on sscreen to make cars zoom*
-
 let img3;
  
 let img2;
